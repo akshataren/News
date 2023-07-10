@@ -1,11 +1,11 @@
 # News website
 
-it is a news website which provides the user news updates. user can view news according to the categories eg: IPL, Finance , Politics etc.
+it is a news website which provides the user news updates. user can view news according to the categories eg: IPL, Finance , Politics,Technology etc.
 
 ### Technology used
-*HTML
-*CSS
-*Javascript
+* HTML
+* CSS
+* Javascript
 
 ##Shnapshot
 
